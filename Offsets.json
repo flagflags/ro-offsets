@@ -1,0 +1,251 @@
+{
+  "clientVersion": "version-8e6e698468a04d3f",
+  "offsets": {
+    "AnimationTrack": {
+      "Animation": "0xc8",
+      "Animator": "0x110",
+      "IsPlaying": "0x510",
+      "Looped": "0xed",
+      "Speed": "0xdc"
+    },
+    "BasePart": {
+      "AssemblyAngularVelocity": "0x134",
+      "AssemblyLinearVelocity": "0x128",
+      "Color3": "0x18c",
+      "Material": "0x0",
+      "Position": "0x11c",
+      "Primitive": "0x140",
+      "PrimitiveFlags": "0x294",
+      "PrimitiveOwner": "0x210",
+      "Rotation": "0xf8",
+      "Shape": "0x1a9",
+      "Size": "0x1d0",
+      "Transparency": "0xe8",
+      "ValidatePrimitive": "0x6"
+    },
+    "BaseScript": {
+      "IsCoreScript": "0x180",
+      "ModuleFlags": "0x17c"
+    },
+    "ByteCode": {
+      "Pointer": "0x10",
+      "Size": "0x20"
+    },
+    "Camera": {
+      "CameraSubject": "0xe0",
+      "CameraType": "0x150",
+      "FieldOfView": "0x158",
+      "Position": "0x114",
+      "Rotation": "0xf0"
+    },
+    "ClickDetector": {
+      "MaxActivationDistance": "0xf8",
+      "MouseIcon": "0xd8"
+    },
+    "DataModel": {
+      "CreatorId": "0x180",
+      "GameId": "0x188",
+      "GameLoaded": "0x5e8",
+      "JobId": "0x130",
+      "PlaceId": "0x190",
+      "PlaceVersion": "0x1ac",
+      "PrimitiveCount": "0x428",
+      "ScriptContext": "0x3f0",
+      "ServerIP": "0x5d0",
+      "Workspace": "0x170"
+    },
+    "FFlags": {
+      "DebugDisableTimeoutDisconnect": "0x6542450",
+      "EnableLoadModule": "0x65317b0",
+      "PartyPlayerInactivityTimeoutInSeconds": "0x64f7d98",
+      "TaskSchedulerTargetFps": "0x6e54cc8",
+      "WebSocketServiceEnableClientCreation": "0x654f058"
+    },
+    "FakeDataModel": {
+      "Pointer": "0x76b46b8",
+      "RealDataModel": "0x1c0"
+    },
+    "GuiObject": {
+      "BackgroundColor3": "0x548",
+      "BorderColor3": "0x554",
+      "Image": "0xa18",
+      "LayoutOrder": "0x584",
+      "Position": "0x518",
+      "RichText": "0xad8",
+      "Rotation": "0x180",
+      "ScreenGui_Enabled": "0x4cc",
+      "Size": "0x538",
+      "Text": "0xe38",
+      "TextColor3": "0xee8",
+      "Visible": "0x5b1"
+    },
+    "Humanoid": {
+      "AutoRotate": "0x1d1",
+      "FloorMaterial": "0x188",
+      "Health": "0x18c",
+      "HipHeight": "0x198",
+      "HumanoidState": "0x858",
+      "HumanoidStateID": "0x20",
+      "Jump": "0x1d5",
+      "JumpHeight": "0x1a4",
+      "JumpPower": "0x1a8",
+      "MaxHealth": "0x1ac",
+      "MaxSlopeAngle": "0x1b0",
+      "RigType": "0x1c0",
+      "Walkspeed": "0x1cc",
+      "WalkspeedCheck": "0x3a0"
+    },
+    "Instance": {
+      "AttributeContainer": "0x40",
+      "AttributeList": "0x18",
+      "AttributeToNext": "0x58",
+      "AttributeToValue": "0x18",
+      "ChildrenEnd": "0x8",
+      "ChildrenStart": "0x68",
+      "ClassBase": "0xc98",
+      "ClassDescriptor": "0x18",
+      "ClassName": "0x8",
+      "Name": "0xa8",
+      "Parent": "0x60"
+    },
+    "Lighting": {
+      "Ambient": "0xd0",
+      "Brightness": "0x118",
+      "ClockTime": "0x1b0",
+      "ColorShift_Bottom": "0xe8",
+      "ColorShift_Top": "0xdc",
+      "ExposureCompensation": "0x124",
+      "FogColor": "0xf4",
+      "FogEnd": "0x12c",
+      "FogStart": "0x130",
+      "GeographicLatitude": "0x188",
+      "OutdoorAmbient": "0x100"
+    },
+    "LocalScript": {
+      "ByteCode": "0x1a0",
+      "Hash": "0x1b0"
+    },
+    "MeshPart": {
+      "MeshId": "0x2d8",
+      "Texture": "0x308"
+    },
+    "Misc": {
+      "Adornee": "0x100",
+      "AnimationId": "0xc8",
+      "RequireLock": "0x914",
+      "StringLength": "0x10",
+      "Value": "0xc8"
+    },
+    "Model": {
+      "PrimaryPart": "0x240",
+      "Scale": "0x14c"
+    },
+    "ModuleScript": {
+      "ByteCode": "0x148",
+      "Hash": "0x160"
+    },
+    "MouseService": {
+      "InputObject": "0xf8",
+      "MousePosition": "0xe4",
+      "SensitivityPointer": "0x778c890"
+    },
+    "Player": {
+      "CameraMode": "0x2f0",
+      "Country": "0x108",
+      "DisplayName": "0x128",
+      "Gender": "0xe58",
+      "LocalPlayer": "0x128",
+      "MaxZoomDistance": "0x2e8",
+      "MinZoomDistance": "0x2ec",
+      "ModelInstance": "0x358",
+      "Mouse": "0xcc8",
+      "Team": "0x268",
+      "UserId": "0x290"
+    },
+    "PlayerConfigurer": {
+      "OverrideDuration": "0x1f8",
+      "Pointer": "0x7690a98"
+    },
+    "PlayerMouse": {
+      "Icon": "0xd8",
+      "Workspace": "0x160"
+    },
+    "PrimitiveFlags": {
+      "Anchored": "0x2",
+      "CanCollide": "0x8",
+      "CanTouch": "0x10"
+    },
+    "ProximityPrompt": {
+      "ActionText": "0xc8",
+      "Enabled": "0x14e",
+      "GamepadKeyCode": "0x134",
+      "HoldDuration": "0x138",
+      "KeyCode": "0x13c",
+      "MaxActivationDistance": "0x140",
+      "ObjectText": "0xe8",
+      "RequiresLineOfSight": "0x14f"
+    },
+    "RenderView": {
+      "DeviceD3D11": "0x8",
+      "VisualEngine": "0x10"
+    },
+    "RunService": {
+      "HeartbeatFPS": "0xb8",
+      "HeartbeatTask": "0xe0"
+    },
+    "Sky": {
+      "MoonAngularSize": "0x214",
+      "MoonTextureId": "0xd0",
+      "SkyboxBk": "0xf8",
+      "SkyboxDn": "0x120",
+      "SkyboxFt": "0x148",
+      "SkyboxLf": "0x170",
+      "SkyboxOrientation": "0x208",
+      "SkyboxRt": "0x198",
+      "SkyboxUp": "0x1c0",
+      "StarCount": "0x218",
+      "SunAngularSize": "0x1a4",
+      "SunTextureId": "0x1e8"
+    },
+    "SpecialMesh": {
+      "MeshId": "0x100",
+      "Scale": "0x14c"
+    },
+    "StatsItem": {
+      "Value": "0x2c0"
+    },
+    "TaskScheduler": {
+      "FakeDataModelToDataModel": "0x1b0",
+      "JobEnd": "0x1d8",
+      "JobName": "0x18",
+      "JobStart": "0x1d0",
+      "MaxFPS": "0x1b0",
+      "Pointer": "0x77f3158",
+      "RenderJobToFakeDataModel": "0x38",
+      "RenderJobToRenderView": "0x218"
+    },
+    "Team": {
+      "BrickColor": "0xc8"
+    },
+    "Textures": {
+      "Decal_Texture": "0x190",
+      "Texture_Texture": "0x190"
+    },
+    "VisualEngine": {
+      "Dimensions": "0x720",
+      "Pointer": "0x743bdd0",
+      "ToDataModel1": "0x700",
+      "ToDataModel2": "0x1c0",
+      "ViewMatrix": "0x4b0"
+    },
+    "Workspace": {
+      "CurrentCamera": "0x418",
+      "DistributedGameTime": "0x438",
+      "Gravity": "0x1d8",
+      "GravityContainer": "0x390",
+      "PrimitivesPointer1": "0x390",
+      "PrimitivesPointer2": "0x238",
+      "ReadOnlyGravity": "0x960"
+    }
+  }
+}
